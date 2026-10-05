@@ -1,8 +1,8 @@
 class Cull < Formula
   desc "Pre-import culling for DNG shoots: verified offload, focus checked at the eyes"
   homepage "https://code.jefflaplante.com/cull/"
-  url "https://github.com/jefflaplante/cull/releases/download/v0.1.5/cull_macos_universal.tar.gz"
-  sha256 "31cb042df32541bd16577f83977baeb1ae8cc29854e8df25589aede88cc61179"
+  url "https://github.com/jefflaplante/cull/releases/download/v0.1.6/cull_macos_universal.tar.gz"
+  sha256 "5eda5f28db2bc9a23b50498fef676c0cc60fd3e86a93ddee8fae7c1a13f2cb7d"
 
   depends_on :macos
 
